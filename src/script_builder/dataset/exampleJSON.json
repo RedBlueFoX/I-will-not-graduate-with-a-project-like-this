@@ -1,0 +1,32 @@
+{
+	"NumberOfTurns": 7,
+	"CharactersExcluded": [21, 83, 14, 2],
+	"ObjectsExcluded": [1,14,8],
+	"turns":
+	{
+		"TurnZero":{
+
+		},
+		"TurnFirst":{
+
+		},
+		"TurnSecond":{
+
+		},
+		"TurnThird":{
+
+		},
+		"TurnFourth":{
+
+		},
+		"TurnFifth":{
+
+		},
+		"TurnSixth":{
+
+		},
+		"TurnSeventh":{
+			
+		},
+	}
+}
