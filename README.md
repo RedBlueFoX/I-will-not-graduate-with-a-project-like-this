@@ -1,2 +1,2 @@
-# I-will-not-graduate-with-a-project-like-this
+# GraduationProject
 The repository for my final project.
